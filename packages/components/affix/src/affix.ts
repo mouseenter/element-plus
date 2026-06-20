@@ -83,6 +83,8 @@ export const affixProps = buildProps({
   },
 } as const)
 
+export const __test = {}
+
 /**
  * @deprecated Removed after 3.0.0, Use `AffixProps` instead.
  */
